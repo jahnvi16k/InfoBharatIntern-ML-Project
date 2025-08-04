@@ -56,6 +56,18 @@ After this, type **“next”** and we’ll move to the **How to Run** section.
 3. Make sure required libraries (like pandas, numpy, scikit-learn) are installed.
 4. Run the cells in order to train the model and see the predictions.
 
+## 🙋‍♀️ Author
+
+**K Jahnvi**  
+BTech CSE Student at IILM University (2024–2028)  
+Machine Learning Intern @ NeuroNova Insights  
+
+📫 Reach me on:  
+- [LinkedIn](http://www.linkedin.com/in/jahnavi16006) *(replace with your actual link)*  
+- [GitHub](https://github.com/jahnvi16k)  
+- [Email](mailto:your-email@example.com) *(optional)*
+
+
 
 
 
