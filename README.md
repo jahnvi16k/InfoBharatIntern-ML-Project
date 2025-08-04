@@ -24,5 +24,17 @@ To build a predictive model that accurately estimates the number of bike rentals
 - Matplotlib
 - Seaborn
 
+## 🧠 Machine Learning Models
+
+Two different regression models were implemented and compared:
+
+- **Linear Regression:** A simple model to establish a baseline prediction.
+- **Random Forest Regressor:** An ensemble model that improved accuracy by reducing overfitting and handling non-linear relationships.
+
+### 📏 Evaluation Metrics
+- **RMSE (Root Mean Squared Error)**
+- **R² Score**
+
+
 
 
