@@ -35,6 +35,12 @@ Two different regression models were implemented and compared:
 - **RMSE (Root Mean Squared Error)**
 - **R² Score**
 
+## 📈 Results
+
+- The **Random Forest Regressor** performed better than Linear Regression.
+- It achieved a higher R² Score and a lower RMSE, indicating better prediction accuracy.
+- The model was able to capture patterns related to working days, weather, and time-based trends effectively.
+
 
 
 
