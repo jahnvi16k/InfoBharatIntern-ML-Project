@@ -49,6 +49,14 @@ Two different regression models were implemented and compared:
 
 After this, type **“next”** and we’ll move to the **How to Run** section.
 
+## 🚀 How to Run
+
+1. Clone the repository or download the ZIP file.
+2. Open the `bike_rental_prediction.ipynb` file in **Google Colab** or **Jupyter Notebook**.
+3. Make sure required libraries (like pandas, numpy, scikit-learn) are installed.
+4. Run the cells in order to train the model and see the predictions.
+
+
 
 
 
