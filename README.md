@@ -13,5 +13,16 @@ To build a predictive model that accurately estimates the number of bike rentals
   - `season`, `holiday`, `workingday`: Indicators for conditions
   - `weather`, `temp`, `atemp`, `humidity`, `windspeed`: Weather-related data
   - `casual`, `registered`, `count`: Rental counts
+ 
+## 🛠️ Technologies Used
+
+- Python
+- Jupyter Notebook (Google Colab)
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
 
 
