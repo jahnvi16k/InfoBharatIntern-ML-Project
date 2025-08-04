@@ -63,9 +63,9 @@ BTech CSE Student at IILM University (2024–2028)
 Machine Learning Intern @ NeuroNova Insights  
 
 📫 Reach me on:  
-- [LinkedIn](http://www.linkedin.com/in/jahnavi16006) *(replace with your actual link)*  
+- [LinkedIn](http://www.linkedin.com/in/jahnavi16006) 
 - [GitHub](https://github.com/jahnvi16k)  
-- [Email](mailto:your-email@example.com) *(optional)*
+- [Email](mailto:your-email@example.com) 
 
 
 
