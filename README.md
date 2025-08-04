@@ -25,7 +25,6 @@ To build a predictive model that accurately estimates the number of bike rentals
 - Seaborn
 
 ## 🧠 Machine Learning Models
-
 Two different regression models were implemented and compared:
 
 - **Linear Regression:** A simple model to establish a baseline prediction.
@@ -40,6 +39,16 @@ Two different regression models were implemented and compared:
 - The **Random Forest Regressor** performed better than Linear Regression.
 - It achieved a higher R² Score and a lower RMSE, indicating better prediction accuracy.
 - The model was able to capture patterns related to working days, weather, and time-based trends effectively.
+
+## 📁 Project Structure
+
+
+> 📌 **Tip:** If you haven’t uploaded all these files yet, don’t worry — this is just a suggested structure. You can update it later after you upload them.
+
+---
+
+After this, type **“next”** and we’ll move to the **How to Run** section.
+
 
 
 
